@@ -1,0 +1,31 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: 48pt;
+    background-color: rgb(255,255,255);
+    color: hsla(276, 65%, 55%, 1) 
+}
+body {
+    background-color: hsla(276, 65%, 55%, 1);
+    text-align: left;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: 30pt;
+    color: rgb(255,255,255);
+}
+#concurrentie {
+    width: 1400px;
+    height: 120px;
+}
+th {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255,255,255);
+    font: 40pt;
+}
+td {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255,255,255);
+    font: 30pt;
+    text-align: center;
+}
